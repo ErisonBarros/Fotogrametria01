@@ -1,0 +1,3 @@
+# Cobertura do Solo
+
+<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
