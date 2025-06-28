@@ -152,6 +152,7 @@
 * [🚩 Aula 07 - Plano de Voo com Drones](aula-07-plano-de-voo-com-drones.md)
 * [🚩 Aula 08 - Restituição Fotogramétrica](aula-08-restituicao-fotogrametrica.md)
 * [🚩 Aula 09 - Apoio Terrestre](aula-09-apoio-terrestre.md)
+* [Modelos de Transformação para Georreferenciamento de Fotografias Aéreas](modelos-de-transformacao-para-georreferenciamento-de-fotografias-aereas.md)
 
 ## Group 1
 
