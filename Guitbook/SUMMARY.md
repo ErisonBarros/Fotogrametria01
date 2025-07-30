@@ -164,4 +164,4 @@
 
 ## Group 3
 
-* [Atividades](group-3/atividades.md)
+* [Atividades 10](group-3/atividades-10.md)
