@@ -161,3 +161,7 @@
 ## Group 2
 
 * [Vídeo de Referencia](group-2/video-de-referencia.md)
+
+## Group 3
+
+* [Atividades](group-3/atividades.md)
